@@ -17,6 +17,13 @@ public class Whilloop {
 //             System.out.println(i+" Ankit Upadhyay");
 //         }
 // this logi is the sntax of for loop
+//this lower is the do while syntax
+ // int i=1;
+ //        do{
+ //            System.out.println(i+" Ankit Upadhyay");
+ //            i++;
+ //        }while(i<=11);
+
 
 notes
 1. Why Loops Are Important
