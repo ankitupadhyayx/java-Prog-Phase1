@@ -1,5 +1,5 @@
 // print Square Pattern
-public class Squarepattern {
+public class Square{
     public static void main(String[] args) {
         int n = 5;
         for(int i = 1 ; i<= n ; i++){

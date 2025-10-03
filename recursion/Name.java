@@ -1,10 +1,11 @@
-public class Name {
+class Name {
     static void printName(int num ){
         if(num==0){
             return;
         }
-        System.out.println("Ankit");
+        System.out.println("Ankit"+num);
         printName(num-1);
+        System.out.println("Upadhyay");
     }
     public static void main(String[] args) {
         printName(5);
